@@ -1,0 +1,1831 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "What is artificial intelligence and how is it used?",
+            "body": "Artificial intelligence (AI) is set to be a 'defining future technology', but what exactly is AI and how does it already affect our lives?",
+            "content": [
+                {
+                    "tag": "p",
+                    "children": [
+                        "Artificial intelligence (AI) is set to be a &quot;defining future technology&quot;, but what exactly is AI and how does it already affect our lives?"
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        "Definition of artificial intelligence"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI is the ability of a machine to display human-like capabilities such as reasoning, learning, planning and creativity."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "a",
+                            "href": "https://ec.europa.eu/digital-single-market/en/news/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "AI enables"
+                            ]
+                        },
+                        "&nbsp;technical systems to perceive their environment, deal with what they perceive, solve problems and act to achieve a specific goal. The computer receives data - already prepared or gathered through its own sensors such as a camera - processes it and responds."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI systems are capable of adapting their behaviour to a certain degree by analysing the effects of previous actions and working autonomously."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        "Why is AI important?"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Some AI technologies have been around for more than 50 years, but advances in computing power, the availability of enormous quantities of data and new algorithms have led to major AI breakthroughs in recent years."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Artificial intelligence is seen as central to the digital transformation of society and it has become&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.europarl.europa.eu/doceo/document/TA-8-2019-0081_EN.html?redirect",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "an EU priority"
+                            ]
+                        },
+                        "."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Future applications are expected to bring about enormous changes, but AI is already present in our everyday lives."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Types of AI"
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "children": [
+                        {
+                            "tag": "li",
+                            "children": [
+                                {
+                                    "tag": "p",
+                                    "children": [
+                                        "Software: virtual assistants, image analysis software, search engines, speech and face recognition systems"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                {
+                                    "tag": "p",
+                                    "children": [
+                                        "&quot;Embodied&quot; AI: robots, autonomous cars, drones, Internet of Things"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        "AI in everyday life"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Below are some AI applications that you may not realise are AI-powered:"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Online shopping and advertising"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Artificial intelligence is widely used to provide personalised recommendations to people, based for example on their previous searches and purchases or other online behaviour. AI is hugely important in commerce: optimising products, planning inventory, logistics etc."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Web search"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Search engines learn from the vast input of data, provided by their users to provide relevant search results."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Digital personal assistants"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Smartphones use AI to provide services that are as relevant and personalised as possible. Virtual assistants answering questions, providing recommendations and helping organise daily routines have become ubiquitous."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Machine translations"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Language translation software, either based on written or spoken text, relies on artificial intelligence to provide and improve translations. This also applies to functions such as automated subtitling."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Smart homes, cities and infrastructure"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Smart thermostats learn from our behaviour to save energy, while developers of smart cities hope to regulate traffic to improve connectivity and reduce traffic jams."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Cars"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "While self-driving vehicles are not yet standard, cars already use AI-powered safety functions. The EU has for example helped to fund&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://cordis.europa.eu/project/id/690772",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "VI-DAS"
+                            ]
+                        },
+                        ", automated sensors that detect possible dangerous situations and accidents."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Navigation is largely AI-powered."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Cybersecurity"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI systems can help recognise and fight cyberattacks and other cyber threats based on the continuous input of data, recognising patterns and backtracking the attacks."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Artificial intelligence against Covid-19"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "In the case of&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.europarl.europa.eu/RegData/etudes/IDAN/2020/641543/EPRS_IDA(2020)641543_EN.pdf",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "Covid-19"
+                            ]
+                        },
+                        ", AI has been used in thermal imaging in airports and elsewhere. In medicine it can help recognise infection from computerised tomography lung scans. It has also been used to provide data to track the spread of the disease."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Fighting disinformation"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Certain AI applications can detect&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.europarl.europa.eu/news/en/headlines/priorities/disinformation",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "fake news and disinformation"
+                            ]
+                        },
+                        "&nbsp;by mining social media information, looking for words that are sensational or alarming and identifying which online sources are deemed authoritative."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "img",
+                            "src": "/images/robot-with-doctors.jpg"
+                        }
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        "Other examples of artificial intelligence use"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI is set to transform practically all aspects of life and the economy. Here are just a few examples:"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Health"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Researchers are studying how to use AI to analyse large quantities of health data and discover patterns that could lead to new discoveries in medicine and ways to improve individual diagnostics."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "For example, researchers developed an AI program for answering emergency calls that promises to recognise a cardiac arrest during the call faster and more frequently than medical dispatchers. In another example, EU co-funded&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://cordis.europa.eu/project/id/644753",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "KConnect"
+                            ]
+                        },
+                        "&nbsp;is developing multi-lingual text and search services that help people find the most relevant medical information available."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Transport"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI could improve the safety, speed and efficiency of rail traffic by minimising wheel friction, maximising speed and enabling autonomous driving."
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Manufacturing"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI can help European manufacturers become more efficient and bring factories back to Europe by using robots in manufacturing, optimising sales paths, or by on-time predicting of maintenance and breakdowns in smart factories."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "a",
+                            "href": "https://cordis.europa.eu/project/id/636302",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "SatisFactory"
+                            ]
+                        },
+                        ", an EU co-funded research project, uses collaborative and augmented-reality systems to increase work satisfaction in smart factories."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Food and farming"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI can be used in&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.europarl.europa.eu/news/en/headlines/society/20200519STO79425/creating-a-sustainable-food-system-the-eu-s-strategy",
+                            "rel": "noopener",
+                            "target": "_blank",
+                            "children": [
+                                "creating a sustainable EU food system"
+                            ]
+                        },
+                        ": it can ensure healthier food by minimising the use of fertilisers, pesticides and irrigation; help productivity and reduce the environmental impact. Robots could remove weeds, lowering the use of herbicides, for example."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Many farms across the EU already use AI to monitor the movement, temperature and feed consumption of their animals."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        "Public administration and services"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Using a wide range of data and pattern recognition, AI could provide early warnings of natural disasters and allow for efficient preparation and mitigation of consequences."
+                    ]
+                }
+            ],
+            "img": "/images/whatIsAi.jpg",
+            "countOfComment": "6",
+            "date": "17-Oct",
+            "viewsCount": "1347",
+            "comments": [
+                {
+                    "id": 1,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                },
+                {
+                    "id": 4,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 5,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 6,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "AI Algorithms you should know",
+            "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
+            "content": [
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Artificial Intelligence"
+                            ]
+                        },
+                        "&nbsp;has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Artificial Intelligence is the field of computer science that deals with imparting the decisive ability and thinking the ability to machines. Artificial Intelligence is thus a blend of computer science, data analytics, and pure mathematics."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Machine learning becomes an integral part of Artificial Intelligence, and it only deals with the first part, the process of learning from input data.&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.upgrad.com/blog/significant-benefits-of-artificial-intelligence-deep-analysis/",
+                            "children": [
+                                "Artificial Intelligence and its benefits"
+                            ]
+                        },
+                        "&nbsp;have never ceased to amaze us."
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Types of Artificial Intelligence Algorithms"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Artificial intelligence algorithms can be broadly classified as :"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "1. Classification Algorithms"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Classification algorithms are part of supervised learning. These algorithms are used to divide the subjected variable into different classes and then predict the class for a given input. For example, classification algorithms can be used to classify emails as spam or not. Let&rsquo;s discuss some of the commonly used classification algorithms."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; a) Naive Bayes"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Naive Bayes algorithm works on Bayes theorem and takes a probabilistic approach, unlike other classification algorithms. The algorithm has a set of prior probabilities for each class. Once data is fed, the algorithm updates these probabilities to form something known as posterior probability. This comes useful when you need to predict whether the input belongs to a given list of classes or not."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; b) Decision Tree"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The decision tree algorithm is more of a flowchart like an algorithm where nodes represent the test on an input attribute and branches represent the outcome of the test."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; c) Random Forest"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Random forest works like a group of trees. The input data set is subdivided and fed into different decision trees. The average of outputs from all decision trees is considered. Random forests offer a more accurate classifier as compared to Decision tree algorithm."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp;d) Support Vector Machines"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "SVM is an algorithm that classifies data using a hyperplane, making sure that the distance between the hyperplane and support vectors is maximum."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; e) K Nearest Neighbours"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "KNN algorithm uses a bunch of data points segregated into classes to predict the class of a new sample data point. It is called &ldquo;lazy learning algorithm&rdquo; as it is relatively short as compared to other algorithms."
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "2. Regression Algorithms"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Regression algorithms are a popular algorithm under supervised machine learning algorithms. Regression algorithms can predict the output values based on input data points fed in the learning system. The main application of regression algorithms includes predicting stock market price, predicting weather, etc. The most common algorithms under this section are&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; a) Linear regression"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "It is used to measure genuine qualities by considering the consistent variables. It is the simplest of all regression algorithms but can be implemented only in cases of linear relationship or a linearly separable problem. The algorithm draws a straight line between data points called the best-fit line or regression line and is used to predict new values."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; b) Lasso Regression"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Lasso regression algorithm works by obtaining the subset of predictors that minimizes prediction error for a response variable. This is achieved by imposing a constraint on data points and allowing some of them to shrink to zero value."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; c) Logistic Regression"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Logistic regression is mainly used for binary classification. This method allows you to analyze a set of variables and predict a categorical outcome. Its primary applications include predicting customer lifetime value, house values, etc"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; d) Multivariate Regression"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "This algorithm has to be used when there is more than one predictor variable. This algorithm is extensively used in retail sector product recommendation engines, where customers preferred products will depend on multiple factors like brand, quality, price, review etc."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; e) Multiple Regression Algorithm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Multiple Regression Algorithm uses a combination of linear regression and non-linear regression algorithms taking multiple explanatory variables as inputs. The main applications include social science research, insurance claim genuineness, behavioural analysis, etc.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "h3",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "3. Clustering Algorithms"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Clustering is the process of segregating and organizing the data points into groups based on similarities within members of the group. This is part of unsupervised learning. The main aim is to group similar items. For example, it can arrange all transactions of fraudulent nature together based on some properties in the transaction. Below are the most common clustering algorithms."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; a) K-Means Clustering"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "It is the simplest unsupervised learning algorithm. The algorithm gathers similar data points together and then binds them together into a cluster. The clustering is done by calculating the centroid of the group of data points and then evaluating the distance of each data point from the centroid of the cluster. Based on the distance, the analyzed data point is then assigned to the closest cluster. &lsquo;K&rsquo; in K-means stands for the number of clusters the data points are being grouped into.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; b) Fuzzy C-means Algorithm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "FCM algorithm works on probability. Each data point is considered to have a probability of belonging to another cluster. Data points don&rsquo;t have an absolute membership over a particular cluster, and this is why the algorithm is called fuzzy.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; c) Expectation-Maximisation (EM) Algorithm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "It is based on Gaussian distribution we learned in statistics. Data is pictured into a Gaussian distribution model to solve the problem. After assigning a probability, a point sample is calculated based on expectation and maximization equations.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&nbsp; &nbsp; d) Hierarchical Clustering Algorithm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "These algorithms sort clusters hierarchical order after learning the data points and making similarity observations. It can be of two types"
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "children": [
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Divisive clustering, for a top-down approach"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Agglomerative clustering, for a bottom-up approach"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Let&rsquo;s wind up and conclude"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI has&nbsp;",
+                        {
+                            "tag": "a",
+                            "href": "https://www.upgrad.com/blog/6-times-artificial-intelligence-startled-the-world/",
+                            "children": [
+                                "startled the world multiple times"
+                            ]
+                        },
+                        "&nbsp;and has a lot of applications in the real world to solve its complex problems.&nbsp;We hope this article has shed some light on the various Artificial Intelligence algorithms and their broad classifications. Algorithms are chosen based on the need and the nature of the data points we have."
+                    ]
+                }
+            ],
+            "img": "/images/ai-algorithms.jpg",
+            "countOfComment": "3",
+            "date": "8-Sep",
+            "viewsCount": "2108",
+            "comments": [
+                {
+                    "id": 1,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "What Is Speech Recognition",
+            "body": "Speech Recognition Technology allows computer to take spoken audio, interpret it, and generate...",
+            "content": [
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "span",
+                            "style": "font-size:16px",
+                            "children": [
+                                {
+                                    "tag": "strong",
+                                    "children": [
+                                        "Speech recognition technology"
+                                    ]
+                                },
+                                "allows computers to take spoken audio, interpret it and generate text from it. But how do computers understand human speech? The short answer is&hellip;the wonder of signal processing. Speech is simply a series of sound waves created by our vocal chords when they cause air to vibrate around them. These soundwaves are recorded by a microphone, and then converted into an electrical signal. The signal is then processed using advanced signal processing technologies, isolating syllables and words. Over time, the computer can learn to understand speech from experience, thanks to incredible recent advances in artificial intelligence and machine learning. But signal processing is what makes it all possible."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "img": "/images/speech-recognition.jpg",
+            "video": "https://www.youtube.com/watch?v=_wJSnTtcQEk",
+            "countOfComment": "3",
+            "date": "18-Jul",
+            "viewsCount": "2423",
+            "comments": [
+                {
+                    "id": 1,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Why use Python for AI and Machine Learning?",
+            "body": "Should you use Python as the lynchpin for your AI projects?\nPython has been appreciated for its relentless ascent to distinction over recent years.",
+            "content": [
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Should you use Python as the lynchpin for your AI projects?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Python has been appreciated for its relentless ascent to distinction over recent years."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Supported for applications going from web advancement to scripting and procedure mechanization, Python is rapidly turning into the top decision among engineers for AI, ML, and profound learning ventures.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Computer-based intelligence or artificial intelligence has created a universe of chances for application engineers. Computer-based information permits Spotify to prescribe artisans and melodies to clients, or Netflix to comprehend what shows you&rsquo;ll need to see straight away. It is additionally utilized widely by organizations in client assistance to drive self-administration and improve work processes and worker efficiency.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Simulated or machine-driven intelligence ventures contrast from conventional programming ventures. The distinctions lie in the innovation stack, the abilities required for an AI-based experiment, and the need for profound research. To execute your AI desires, you should utilize a programming language that is steady, adaptable and has instruments accessible. Python offers the entirety of this, which is the reason we see bunches of Python AI extend today.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "From advancement to arrangement and upkeep, Python assists engineers with being gainful and sure about the product they&rsquo;re building."
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "children": [
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Advantages that make&nbsp;",
+                                {
+                                    "tag": "a",
+                                    "href": "https://www.igmguru.com/data-science-bi/python-training/",
+                                    "children": [
+                                        "Python"
+                                    ]
+                                },
+                                "&nbsp;the best fit for AI and AI-based undertakings incorporate effortlessness and consistency"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Access to extraordinary libraries and structures for AI and AI (ML)"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Adaptability"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Stage freedom"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "And an extensive network, adding to the general fame of the language.&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Why one can easily rely on the efficiency of Python for making things happen?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An extraordinary library environment&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "An extraordinary selection of libraries is one of the primary reasons Python is the most mainstream programming language utilized for AI. A library is a module or a gathering of modules distributed by various sources like PyPi which incorporate a pre-composed bit of code that permits clients to arrive at some usefulness or perform various activities. Python libraries give base-level things, so designers don&rsquo;t need to code them from the earliest starting point inevitably.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "ML requires nonstop information prepping, and Python&rsquo;s libraries let you access, deal with and change information. These are the absolute most across the board libraries you can use for ML and AI:&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "ol",
+                    "children": [
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Pandas for elevated level information structures and investigation. It permits combining and sifting of information, just as social affair it from other outside sources like Excel, for example.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Keras for profound learning. It permits quick counts and prototyping, as it utilizes the GPU notwithstanding the CPU of the PC.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "TensorFlow for working with profound learning by setting up, preparing, and using artificial neural systems with large datasets.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Matplotlib for making 2D plots, histograms, graphs, and different types of representation."
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "NLTK for working with computational etymology, universal language acknowledgment, and handling.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Scikit-picture for picture handling.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "PyBrain for neural systems, solo and support learning.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Caffe for profound discovering that permits exchanging between the CPU and the GPU and handling 60+ mln pictures a day utilizing a solitary NVIDIA K40 GPU.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Stats models for measurable calculations and information investigation.&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "In the PyPI storehouse, you can find and look at more Python libraries.&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic and predictable&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Python offers short and decipherable code. While complex calculations and flexible work processes remain behind AI and AI, Python&rsquo;s effortlessness permits engineers to compose robust frameworks. Designers find a workable pace in their exertion into tackling a ML issue as opposed to concentrating on the specialized subtleties of the language.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Furthermore, Python is engaging numerous designers as it&rsquo;s anything but difficult to learn. Python code is reasonable by people, which makes it simpler to construct models for AI.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Numerous software engineers state that Python is more intuitive than other programming dialects. Others bring up multiple systems, libraries, and augmentations that improve the execution of various functionalities. It&rsquo;s commonly acknowledged that Python is appropriate for shared performance when numerous engineers are included. Since Python is a broadly useful language, it can do a lot of complex AI errands and empower you to construct models rapidly that permit you to test your item for AI purposes.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A low section boundary&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Working in the ML and AI industry implies managing a lot of information that you have to process most advantageously and compellingly. The low section hindrance permits more information researchers to rapidly get Python and begin utilizing it for AI advancement without squandering an excess of exertion on learning the language."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Python programming language takes after the regular English language, and that makes the way toward learning simpler. Its straightforward punctuation permits you to quickly work with complex frameworks, guaranteeing clear relations between the framework components.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Broad choice of libraries and systems&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Actualizing AI and ML calculations can be dubious and requires a great deal of time. It&rsquo;s crucial to have a well-organized and well-tried condition to empower designers to think of the best coding arrangements.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "To decrease improvement time, software engineers go to various Python structures and libraries. A product library is a pre-composed code that designers use to comprehend regular programming errands. Python, with its rich innovation stack, has a broad arrangement of libraries for computerized reasoning and AI. Here are some of them:&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "ol",
+                    "children": [
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Keras, TensorFlow, and Scikit-learn for AI&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "NumPy for superior logical registering and information examination&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "SciPy for cutting edge figuring&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Pandas for broadly useful information examination&nbsp;"
+                            ]
+                        },
+                        {
+                            "tag": "li",
+                            "children": [
+                                "Seaborn for information perception&nbsp;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "With these arrangements, you can build up your item quicker. Your improvement group won&rsquo;t need to waste time and can utilize a current library to execute fundamental highlights.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        {
+                            "tag": "strong",
+                            "children": [
+                                "Conclusion"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Computer-based intelligence or artificial intelligence&nbsp;is profoundly affecting the world we live in, with new applications rising steadily. Brilliant designers are picking Python as their go-to programming language for the various advantages that make it especially appropriate for AI and profound learning ventures.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Python&rsquo;s broad choice of AI explicit libraries and structures disentangle the improvement procedure and cut advancement time. Python&rsquo;s basic grammar and comprehensibility advance fast testing of complex calculations and make the language open to non-developers."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "It likewise lessens the psychological overhead on engineers, opening up their mental assets with the goal so that they can focus on critical thinking and accomplishing venture objectives. Lastly, the straightforward punctuation makes it simpler to work together, or move extends between designers."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Python additionally flaunts a vast, dynamic network of designers who are glad to offer assistance and backing, which can be important when managing such complex ventures.&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "While other programming dialects can likewise be utilized in AI ventures, there is no escaping from the way that Python is at the front line, and ought to be given critical thought. This is the reason you should consider Python for your AI venture."
+                    ]
+                }
+            ],
+            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png",
+            "countOfComment": "3",
+            "date": "2-Jun",
+            "viewsCount": "1630",
+            "comments": [
+                {
+                    "id": 1,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "AI in Air Traffic Control",
+            "body": "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity – which lends itself to analysis and machine learning.",
+            "content": [
+                {
+                    "tag": "p",
+                    "children": [
+                        "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity &ndash; which lends itself to analysis and machine learning. In addition, much of the complexity is embedded in the driving factors that deliver safe air traffic control: for example flight planning, flow management, safety assessments and conflict prediction. It is no surprise the industry is adopting the technology to enhance both planning and operational activities, and early trials by EUROCONTROL reveal gains of between 20-30% in terms of predictability and efficiency."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "AI has been an integral part of the European Commission&rsquo;s Digital Single Market Strategy since 2017, supported by &euro;1.5 billion co-funding under the Horizon 2020 programme from 2018 to 2020. This was followed by a roadmap and establishment of the European AI Alliance in 2018 to put Europe firmly on the path to becoming a leader in the AI revolution."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "EUROCONTROL held an inaugural Forum on Aviation and AI in early 2019 which brought together key players and served as the launch point for a European AI Aviation Network. The activity is overseen by Directorate European CivilMilitary Aviation (DECMA) Director Philippe Merlo"
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;Our first role is to bring all the stakeholders together to enable an exchange of views. We want to define a roadmap with our stakeholders which defines our priorities and most important projects.&rdquo; EUROCONTROL is a facilitator in this process, with no vested interests, Merlo says, &ldquo;trusted for our neutrality and our expertise&rdquo;."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The process is part of a wider activity underway which sets out to deliver an integrated solution coordinated by the Commission. EUROCONTROL plays a central role at a technical level within the Commission&rsquo;s strategic initiative. Philippe Merlo points out the Agency already manages large quantities of ATM data in its role as Network Manager (NM) and this offers many opportunities for machine learning and AI. For example, the repository includes flight plans, radar tracks, meteorological data, safety incidents and special events, all of which can be interlinked to achieve a higher level of safety. With only a small percentage currently used, Merlo says the amount of relevant information extracted could increase dramatically with the help of AI: &ldquo;We believe we can develop conflict prediction tools and complexity assessment tools which can mitigate risky situations much earlier in a flight.&rdquo; The activity will extend beyond safety and capacity to address environmental factors and cost efficiency"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "An important first step towards achieving this level of connection is to complete implementation of the System Wide Information Management (SWIM) network as envisaged under Single European Sky (SES) legislation. This network interconnects all the ATM players &ndash; from airlines to airports and ANSPs &ndash; with seamless access and interchange of information between providers and users of ATM data and services. Simply sharing data in the first place brings huge benefit to operators in terms of better planning and collaborative decision making."
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;Once you have the data, you are in a position to take the second step and apply AI to analyse this large volume of data and identify opportunities to increase efficiency,&rdquo; says Philippe Merlo."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The first applications are air traffic control planning and flow management, where EUROCONTROL trials already show 30% improvement in trajectory prediction. Work to date looks at where safety can be improved, and delays reduced. Examples include the development of conflict and complexity prediction tools which can anticipate a risky situation based on past data, and can lead to mitigation much earlier in the flight."
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;We already have tools which analyse trajectories automatically, can detect conflict risks and help air traffic controllers to avoid errors. Human errors are rare, thanks to controllers&rsquo; training and skills, however, they remain the biggest safety risk in ATC, and this technology can trigger an alert and present what-if scenarios.&rdquo;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Philippe Merlo says environmental impact could be included in the future to expand the application to support optimised flight trajectories, and the agency is also investigating the airport environment where the technology could help to improve navigation around the airport surface."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Satellite navigation is another area where early research shows AI can add value. Satellite signals can be affected by atmospheric conditions which change with the seasonal equinox cycle. AI technology is being used to identify and isolate instances of ionosphere error to improve the prediction and likely impact of this phenomena."
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "Another promising area for the future digital environment is strengthening safeguards around cyber security. Philippe Merlo says AI can play a role in &ldquo;monitoring the flow of data between your own ATM system and that of your neighbours. It becomes easier to identify abnormal data flows, or messages coming from unknown sources, to show where there might be a security breach.&rdquo;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Within the framework of SES ATM Research (SESAR), EUROCONTROL is applying AI to support the latest re-categorisation wake vortex separations applied to ensure safe separation between aircraft on approach."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The Agency has amassed a large database from recategorisation research projects worldwide which is growing year on year. It includes trajectories from airports in Dubai, Singapore, Paris and London which are being used to determine the reliable safe vortex separation distance for different aircraft types."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The greater the volume of data, the better the outcome, especially when it comes to predicting flight profiles. EUROCONTROL currently exchanges flight data with the US Federal Aviation Administration (FAA) and service providers in the Middle East, and is in discussions with providers in Brazil, Japan, China and India."
+                    ]
+                },
+                {
+                    "tag": "h2",
+                    "children": [
+                        "&nbsp;"
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "This will lead to the exchange of flight-plan data from the moment a flight departs, resulting in more accurate trajectory prediction."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "EUROCONTROL is applying the same principle within Europe to improve information exchange across all airports."
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;Today the large airports are well connected, but almost a third of the traffic departs from smaller airports so we need this data too,&rdquo; says Philippe Merlo. &ldquo;We have started a campaign to encourage these airports to connect to the network.&rdquo; Sharing data with Network Manager will lead to improved trajectory predictions."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Air traffic management is a human-centric activity and software development is viewed with caution by experienced operators. Experience has taught them to rely on their own skills in case of failure and the digital environment presents new challenges. EUROCONTROL is investing in training programmes for existing staff to establish trust in the new technology, and has launched a recruitment effort directed towards attracting skilled AI operators."
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "Longer term, EUROCONTROL is engaging with the European Aviation Safety Agency (EASA) to develop an appropriate certification process. Philippe Merlo describes this as another kind of challenge:"
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;When you work with AI, you are dealing with probability. It provides a prediction, not a determined outcome. Is it possible to certify a probabilistic tool? I believe it is possible but this involves working closely with EASA.&rdquo;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "The digital environment also needs to be secured against cyber-attack. This is especially important as data access grows. Data sharing needs to be secure and reliable to deliver quality information across the network. AI projects tackle these issues in preliminary project phases, for example by selecting only appropriate data and removing unwanted data before any analysis takes place."
+                    ]
+                },
+                {
+                    "tag": "blockquote",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "&ldquo;We are very much in favour of open data policy,&rdquo; says Philippe Merlo. &ldquo;We are developing specific AI tools which can be used to clean data before it is used. In a similar development, AI can also be used to monitor cyber activity by analysing abnormal data flows, however small.&rdquo;"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "p",
+                    "children": [
+                        "He believes AI will change the role of the controller for the better. &ldquo;The main objective is to improve the efficiency of the working position. AI can give more priority to traffic management instead of tactically avoiding conflict. We&rsquo;ve been working on this for 15 years, but thanks to AI we are now in a position to develop better advisory tools for the controller, and simplify the link between strategic and tactical air traffic management.&quot;"
+                    ]
+                }
+            ],
+            "img": "/images/web-skyway-issue-70-1920x1080.jpg",
+            "countOfComment": "3",
+            "date": "18-Jul",
+            "viewsCount": "1320",
+            "comments": [
+                {
+                    "id": 1,
+                    "name": "Hamza sorany",
+                    "avatar": "/images/hso.png",
+                    "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
+                    "TOC": "3m ago"
+                },
+                {
+                    "id": 2,
+                    "name": "Mohammed Taher Ghazal",
+                    "avatar": "/images/mtg.jpg",
+                    "comment": "Very high Quality Content!!",
+                    "TOC": "2m ago"
+                },
+                {
+                    "id": 3,
+                    "name": "Mohammed Babelly",
+                    "avatar": "/images/mb.jpg",
+                    "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
+                    "TOC": "7m ago"
+                }
+            ]
+        }
+    ],
+    "recommendedArticles": [
+        {
+            "id": 2,
+            "title": "AI Algorithms you should know",
+            "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
+            "secondary": "8/09/2020",
+            "img": "/images/ai-algorithms.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Why use Python for AI and Machine Learning?",
+            "body": "Should you use Python as the lynchpin for your AI projects?Python has been appreciated for its relentless ascent to distinction over recent years.",
+            "secondary": "2/06/2020",
+            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+        },
+        {
+            "id": 4,
+            "title": "AI in Air Traffic Control",
+            "body": "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity – which lends itself to analysis and machine learning.",
+            "secondary": "18/07/2020",
+            "img": "/images/web-skyway-issue-70-1920x1080.jpg"
+        }
+    ],
+    "sliderArticles": [
+        {
+            "id": 2,
+            "title": "AI Algorithms you should know",
+            "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
+            "secondary": "8/09/2020",
+            "img": "/images/ai-algorithms.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Why use Python for AI and Machine Learning?",
+            "body": "Should you use Python as the lynchpin for your AI projects?Python has been appreciated for its relentless ascent to distinction over recent years.",
+            "secondary": "2/06/2020",
+            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+        },
+        {
+            "id": 4,
+            "title": "AI in Air Traffic Control",
+            "body": "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity – which lends itself to analysis and machine learning.",
+            "secondary": "18/07/2020",
+            "img": "/images/web-skyway-issue-70-1920x1080.jpg"
+        }
+    ],
+    "recentArticles": [
+        {
+            "id": 5,
+            "title": "What Is Speech Recognition",
+            "body": "Speech Recognition Technology allows computer to take spoken audio, interpret it, and generate...",
+            "img": "/images/speech-recognition.jpg",
+            "countOfComment": "3",
+            "date": "18-Jul",
+            "viewsCount": "2423"
+        },
+        {
+            "id": 2,
+            "title": "AI Algorithms you should know",
+            "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
+            "secondary": "8/09/2020",
+            "img": "/images/ai-algorithms.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Why use Python for AI and Machine Learning?",
+            "body": "Should you use Python as the lynchpin for your AI projects? Python has been appreciated for its relentless ascent to distinction over recent years.",
+            "secondary": "2/06/2020",
+            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+        }
+    ]
+}
