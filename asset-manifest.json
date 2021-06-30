@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/speech-commands/static/css/main.258e2490.chunk.css",
-    "main.js": "/speech-commands/static/js/main.0a1fef00.chunk.js",
-    "main.js.map": "/speech-commands/static/js/main.0a1fef00.chunk.js.map",
+    "main.js": "/speech-commands/static/js/main.aa291d20.chunk.js",
+    "main.js.map": "/speech-commands/static/js/main.aa291d20.chunk.js.map",
     "runtime-main.js": "/speech-commands/static/js/runtime-main.36d34ab5.js",
     "runtime-main.js.map": "/speech-commands/static/js/runtime-main.36d34ab5.js.map",
     "static/css/2.16dd0ad0.chunk.css": "/speech-commands/static/css/2.16dd0ad0.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.16dd0ad0.chunk.css",
     "static/js/2.0aecf153.chunk.js",
     "static/css/main.258e2490.chunk.css",
-    "static/js/main.0a1fef00.chunk.js"
+    "static/js/main.aa291d20.chunk.js"
   ]
 }
