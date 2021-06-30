@@ -434,7 +434,7 @@
                     "children": [
                         {
                             "tag": "img",
-                            "src": "/images/robot-with-doctors.jpg"
+                            "src": "./images/robot-with-doctors.jpg"
                         }
                     ]
                 },
@@ -636,7 +636,7 @@
                     ]
                 }
             ],
-            "img": "/images/whatIsAi.jpg",
+            "img": "./images/whatIsAi.jpg",
             "countOfComment": "6",
             "date": "17-Oct",
             "viewsCount": "1347",
@@ -644,42 +644,42 @@
                 {
                     "id": 1,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 2,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 3,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 },
                 {
                     "id": 4,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 5,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 6,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 }
@@ -1082,7 +1082,7 @@
                     ]
                 }
             ],
-            "img": "/images/ai-algorithms.jpg",
+            "img": "./images/ai-algorithms.jpg",
             "countOfComment": "3",
             "date": "8-Sep",
             "viewsCount": "2108",
@@ -1090,21 +1090,21 @@
                 {
                     "id": 1,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 2,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 3,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 }
@@ -1134,7 +1134,7 @@
                     ]
                 }
             ],
-            "img": "/images/speech-recognition.jpg",
+            "img": "./images/speech-recognition.jpg",
             "video": "https://www.youtube.com/watch?v=_wJSnTtcQEk",
             "countOfComment": "3",
             "date": "18-Jul",
@@ -1143,21 +1143,21 @@
                 {
                     "id": 1,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 2,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 3,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 }
@@ -1509,7 +1509,7 @@
                     ]
                 }
             ],
-            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png",
+            "img": "./images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png",
             "countOfComment": "3",
             "date": "2-Jun",
             "viewsCount": "1630",
@@ -1517,21 +1517,21 @@
                 {
                     "id": 1,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 2,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 3,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 }
@@ -1728,7 +1728,7 @@
                     ]
                 }
             ],
-            "img": "/images/web-skyway-issue-70-1920x1080.jpg",
+            "img": "./images/web-skyway-issue-70-1920x1080.jpg",
             "countOfComment": "3",
             "date": "18-Jul",
             "viewsCount": "1320",
@@ -1736,21 +1736,21 @@
                 {
                     "id": 1,
                     "name": "Hamza sorany",
-                    "avatar": "/images/hso.png",
+                    "avatar": "./images/hso.png",
                     "comment": "This article was very informative and well structured, thank you very much for your time and efforts",
                     "TOC": "3m ago"
                 },
                 {
                     "id": 2,
                     "name": "Mohammed Taher Ghazal",
-                    "avatar": "/images/mtg.jpg",
+                    "avatar": "./images/mtg.jpg",
                     "comment": "Very high Quality Content!!",
                     "TOC": "2m ago"
                 },
                 {
                     "id": 3,
                     "name": "Mohammed Babelly",
-                    "avatar": "/images/mb.jpg",
+                    "avatar": "./images/mb.jpg",
                     "comment": "This helped me a lot and taught me a ton of new things !! \n thank you.",
                     "TOC": "7m ago"
                 }
@@ -1763,21 +1763,21 @@
             "title": "AI Algorithms you should know",
             "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
             "secondary": "8/09/2020",
-            "img": "/images/ai-algorithms.jpg"
+            "img": "./images/ai-algorithms.jpg"
         },
         {
             "id": 3,
             "title": "Why use Python for AI and Machine Learning?",
             "body": "Should you use Python as the lynchpin for your AI projects?Python has been appreciated for its relentless ascent to distinction over recent years.",
             "secondary": "2/06/2020",
-            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+            "img": "./images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
         },
         {
             "id": 4,
             "title": "AI in Air Traffic Control",
             "body": "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity – which lends itself to analysis and machine learning.",
             "secondary": "18/07/2020",
-            "img": "/images/web-skyway-issue-70-1920x1080.jpg"
+            "img": "./images/web-skyway-issue-70-1920x1080.jpg"
         }
     ],
     "sliderArticles": [
@@ -1786,21 +1786,21 @@
             "title": "AI Algorithms you should know",
             "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
             "secondary": "8/09/2020",
-            "img": "/images/ai-algorithms.jpg"
+            "img": "./images/ai-algorithms.jpg"
         },
         {
             "id": 3,
             "title": "Why use Python for AI and Machine Learning?",
             "body": "Should you use Python as the lynchpin for your AI projects?Python has been appreciated for its relentless ascent to distinction over recent years.",
             "secondary": "2/06/2020",
-            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+            "img": "./images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
         },
         {
             "id": 4,
             "title": "AI in Air Traffic Control",
             "body": "Air traffic management stands to benefit significantly from artificial intelligence (AI) by virtue of its reliance on repetitive activity – which lends itself to analysis and machine learning.",
             "secondary": "18/07/2020",
-            "img": "/images/web-skyway-issue-70-1920x1080.jpg"
+            "img": "./images/web-skyway-issue-70-1920x1080.jpg"
         }
     ],
     "recentArticles": [
@@ -1808,7 +1808,7 @@
             "id": 5,
             "title": "What Is Speech Recognition",
             "body": "Speech Recognition Technology allows computer to take spoken audio, interpret it, and generate...",
-            "img": "/images/speech-recognition.jpg",
+            "img": "./images/speech-recognition.jpg",
             "countOfComment": "3",
             "date": "18-Jul",
             "viewsCount": "2423"
@@ -1818,14 +1818,14 @@
             "title": "AI Algorithms you should know",
             "body": "Artificial Intelligence has grown to have a significant impact on the world. With large amounts of data being generated by different applications and sources, machine learning systems can learn from the test data and perform intelligent tasks.",
             "secondary": "8/09/2020",
-            "img": "/images/ai-algorithms.jpg"
+            "img": "./images/ai-algorithms.jpg"
         },
         {
             "id": 3,
             "title": "Why use Python for AI and Machine Learning?",
             "body": "Should you use Python as the lynchpin for your AI projects? Python has been appreciated for its relentless ascent to distinction over recent years.",
             "secondary": "2/06/2020",
-            "img": "/images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
+            "img": "./images/Why-is-Python-the-Best-Suited-Programming-Language-for-Machine-Learning.png"
         }
     ]
 }

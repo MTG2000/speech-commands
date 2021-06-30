@@ -5,7 +5,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 export const Wrapper = ({ children }) => (
-  <Router>
+  <Router basename="/speech-commands">
     <CssBaseline />
     <ToastContainer autoClose={1500} closeButton={false} hideProgressBar />
     <ScrollToTop>{children}</ScrollToTop>

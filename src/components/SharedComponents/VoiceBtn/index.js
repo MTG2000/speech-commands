@@ -1,4 +1,4 @@
-import { Fab, makeStyles } from "@material-ui/core";
+import { Fab, makeStyles, CircularProgress } from "@material-ui/core";
 import MicIcon from "@material-ui/icons/Mic";
 import SpeakerIcon from "@material-ui/icons/RecordVoiceOver";
 import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
@@ -33,6 +33,7 @@ const useStyles = makeStyles((theme) => ({
 export default function VoiceBtn() {
   const classes = useStyles();
   const [isRecording, setIsRecording] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const [recorder, setRecorder] = useState(null);
   const [percentage, setPercentage] = useState(0);
   const [dialogOpen, setDialogOpen] = useState(false);
@@ -64,6 +65,7 @@ export default function VoiceBtn() {
         <Fab
           color="primary"
           aria-label="add"
+          disabled={isLoading}
           className={`${classes.fab} ${isRecording ? "recording" : ""}`}
           onMouseDown={() => {
             if (isRecording) return;
@@ -74,8 +76,11 @@ export default function VoiceBtn() {
               setPercentage((prev) => prev + 100 / 20);
             }, time / 20);
             setTimeout(() => {
-              recorder.stopRecording();
+              recorder.stopRecording(() => {
+                setIsLoading(false);
+              });
               setIsRecording(false);
+              setIsLoading(true);
               setPercentage(0);
               clearInterval(intervalCB);
             }, time);
@@ -91,7 +96,9 @@ export default function VoiceBtn() {
               })}
             />
           )}
-          {isRecording ? (
+          {isLoading ? (
+            <CircularProgress size={20} />
+          ) : isRecording ? (
             <span className={classes.loading}>
               <ScaleLoader
                 color={`var(--primary)`}

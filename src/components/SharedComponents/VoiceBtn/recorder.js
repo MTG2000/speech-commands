@@ -52,69 +52,74 @@ export class Recorder {
     this.recorder.start();
   }
 
-  stopRecording() {
+  async stopRecording(cb) {
     this.recorder.stop().then(({ blob }) => {
       var data = new FormData();
       data.append("audio", blob, `${Date.now()}.wav`);
       fetch(" https://speech-nav.herokuapp.com/stt", {
         method: "POST",
         body: data,
-      }).then((response) =>
-        response.json().then(({ result }) => {
-          if (result) {
-            switch (result) {
-              case "up":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.UP })
-                );
-                createToast(ArrowUpward, "UP");
-                break;
-              case "down":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.DOWN })
-                );
-                createToast(ArrowDownward, "DOWN");
-                break;
-              case "left":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.LEFT })
-                );
-                createToast(ArrowLeft, "LEFT");
-                break;
-              case "right":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.RIGHT })
-                );
-                createToast(ArrowRight, "RIGHT");
-                break;
-              case "go":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.GO })
-                );
-                createToast(GoIcon, "GO");
-                break;
-              case "on":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.ON })
-                );
-                createToast(PlayIcon, "ON");
-                break;
-              case "off":
-                document.dispatchEvent(
-                  new CustomEvent("cmd", { detail: allCmds.OFF })
-                );
-                createToast(StopIcon, "OFF");
-                break;
-              case "backward":
-                window.history.back();
-                createToast(BackwardIcon, "Backward");
-                break;
-              default:
-                break;
+      })
+        .then((response) =>
+          response.json().then(({ result }) => {
+            if (result) {
+              switch (result) {
+                case "up":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.UP })
+                  );
+                  createToast(ArrowUpward, "UP");
+                  break;
+                case "down":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.DOWN })
+                  );
+                  createToast(ArrowDownward, "DOWN");
+                  break;
+                case "left":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.LEFT })
+                  );
+                  createToast(ArrowLeft, "LEFT");
+                  break;
+                case "right":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.RIGHT })
+                  );
+                  createToast(ArrowRight, "RIGHT");
+                  break;
+                case "go":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.GO })
+                  );
+                  createToast(GoIcon, "GO");
+                  break;
+                case "on":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.ON })
+                  );
+                  createToast(PlayIcon, "ON");
+                  break;
+                case "off":
+                  document.dispatchEvent(
+                    new CustomEvent("cmd", { detail: allCmds.OFF })
+                  );
+                  createToast(StopIcon, "OFF");
+                  break;
+                case "backward":
+                  window.history.back();
+                  createToast(BackwardIcon, "Backward");
+                  break;
+                default:
+                  break;
+              }
             }
-          }
-        })
-      );
+            cb();
+          })
+        )
+        .catch((err) => {
+          cb();
+        });
     });
   }
 }
